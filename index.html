@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="pt-BR">
   <head>
 	<meta charset="UTF-8">
@@ -12,14 +12,22 @@
   </head>
   
   <body>
+	<header id="top">
+		<h1>No Mobile Number to Download</h1>
+	</header>
     <section id="formulario">
-		<h2>Insira abaixo o Link</h2>
+		<h2>Cole a URL no campo abaixo:</h2>
 		<form action="index.html" id="formPost" method="POST">
         <input type="text" name="link" class="linkUsuario"/> 
 		<input type="submit" value="Destravar Link" class="botao" />
 		</form>
 	</section>
 	<section id="resultado"></section>
+	<section id="descricao">
+		<p class="sobre">Alguns sites adicionam um protetor de link com propaganda e um sistema de envio de SMS <strong>pago</strong> para liberar o link de um arquivo que é gratuito.</p>
+		<p class="sobre">Pensando em auxiliar os usuários a ter acesso a informação livre e gratuita, esta aplicação remove a 'codificação' de alguns protetores de link apenas com javascript.</p>
+		<p class="small">Para quem quiser aprimorar o script, pode encontrar o projeto no gitHub. <a href="https://github.com/bargaorobalo/No-Mobile-Number-to-Download">Fork it!</a></p>
+	</section>
 <span class="timer"></span>
   </body>
 </html>
