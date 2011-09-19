@@ -1,4 +1,4 @@
-/*------------------------------------------*/
+﻿/*------------------------------------------*/
 /*   NO MOBILE SIGNUP FOR DOWNLOAD LINK     */
 /*------------------------------------------*/
 
@@ -9,6 +9,6 @@ For those who do not want to pay to have released the free download link.
 You put the URL locked in the form field and click generate URL for download.
 You will receive a link unlocked or wait 10 seconds to be redirected to the link.
 
-Helder Barg�o Robalo
+Helder Bargão Robalo
 bargaorobalo@gmail.com
 @bargaorobalo
